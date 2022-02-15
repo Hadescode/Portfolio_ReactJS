@@ -58,7 +58,7 @@
 
                 @include mobile {
                     width: 90%;
-                    height: 220px;
+                    height: 200px;
                     margin: 10px 0;
                     overflow: hidden;
                 }
@@ -71,7 +71,7 @@
                     overflow: hidden;
 
                     @include mobile{
-                        height: 114%;
+                        height: 70%;
                     }
                     
                     .leftContainer{
@@ -113,6 +113,10 @@
                         p{
                             font-size: 13px;
                             overflow: hidden;
+
+                            @include mobile{
+                                display: none;
+                            }
                         }
                         span{
                             font-size: 12px;
