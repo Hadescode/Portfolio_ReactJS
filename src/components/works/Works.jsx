@@ -8,9 +8,9 @@ export default function Works() {
       id: "1",
       icon: "./assets/mobile.png",
       title: "Web Design",
-      desc: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. ",
-      img: "https://99designs-blog.imgix.net/blog/wp-content/uploads/2018/10/attachment_100040756-e1538485934255.jpeg?auto=format&q=60&fit=max&w=930",
-      link: "http://bootstrap-movie-demo.surge.sh/",
+      desc: "Use HTML5, CSS3, Bootstrap4, JS ",
+      img: "https://i.imgur.com/GDCC9qs.png",
+      link: "https://hadescode.github.io/Fiverr-HTML-CSS-B4-SASS/",
     },
     {
       id: "2",
